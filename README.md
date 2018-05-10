@@ -30,7 +30,7 @@ data into [GitHub](https://github.com/)
 
 I hope you will glean a lot of important information from this site and add some input of your own!
 
-![Image](https://www.lambiek.net/artists/image/m/moebius/moebius_futuristic.jpg)
+![Image](https://lambiek.net/artists/g/giraud.htm)
 ```
 
 ### Support or Contact
