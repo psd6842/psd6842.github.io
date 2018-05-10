@@ -35,9 +35,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Welcome to the Test Site
 
+```markdown
 Here we will look at all the practice projects for psd6842 and work on methods of implementing programs and data into [GitHub](https://github.com/)
 
-I hope you will glean a lot of important information from this site and add some input of your own! 
+I hope you will glean a lot of important information from this site and add some input of your own!
+```
 
 ### Support or Contact
 
