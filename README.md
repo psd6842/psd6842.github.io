@@ -33,7 +33,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/psd6842/psd6842.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 
-###Welcome to the Test Site
+### Welcome to the Test Site
 
 Here we will look at all the practice projects for psd6842 and work on methods of implementing programs and data into [GitHub](https://github.com/)
 
