@@ -25,11 +25,12 @@ Syntax highlighted code block
 ### Welcome to the Test Site
 
 ```markdown
-Here we will look at all the practice projects for psd6842 and work on methods of implementing programs and data into [GitHub](https://github.com/)
+Here we will look at all the practice projects for psd6842 and work on methods of implementing programs and 
+data into [GitHub](https://github.com/)
 
 I hope you will glean a lot of important information from this site and add some input of your own!
 
-![Moebius](https://www.lambiek.net/artists/image/m/moebius/moebius_futuristic.jpg)
+![Image](https://www.lambiek.net/artists/image/m/moebius/moebius_futuristic.jpg)
 ```
 
 ### Support or Contact
