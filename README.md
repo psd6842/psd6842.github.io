@@ -1,8 +1,4 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/psd6842/psd6842.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Welcome to psd6842's Home Page! 
 
 ### Markdown
 
@@ -26,21 +22,18 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/psd6842/psd6842.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-
 ### Welcome to the Test Site
 
 ```markdown
 Here we will look at all the practice projects for psd6842 and work on methods of implementing programs and data into [GitHub](https://github.com/)
 
 I hope you will glean a lot of important information from this site and add some input of your own!
+
+![Moebius](https://www.lambiek.net/artists/image/m/moebius/moebius_futuristic.jpg)
 ```
 
 ### Support or Contact
+
+Need to get in touch? Contact me at: psd6842@uncw.edu
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
